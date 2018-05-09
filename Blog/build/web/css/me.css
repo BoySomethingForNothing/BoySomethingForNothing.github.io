@@ -1,0 +1,76 @@
+body{
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimSun, sans-serif;
+}
+body{
+    padding: 0;
+    margin:0 ;
+}
+.container{
+    width: 950px;
+    margin: 0 auto;
+}
+.head{
+    background-color:#5bc0de;
+    font-family: 楷体;
+}
+.head > .container{
+    background-color: #9acfea;
+    top: 10px;
+}
+
+.nav>.container{
+    background-color: gold;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimSun, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #921592;
+}
+
+h1 {
+    text-align: left;
+    color:#000;
+}
+
+table{
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+}
+
+p{
+    text-indent: 20px;
+}
+
+h3{
+    background-color: #268bdd;
+    color: rgb(255, 255, 255);
+    line-height: 30px;
+    padding-left:10px;
+}
+
+.dt {
+    text-align: left;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    margin-top: 0;
+    background-image: url("bk.jpg")
+}
+.dd{
+    position: relative;
+    left: 230px;
+    top: -200px;
+    font-family: 楷体;
+    font-size: 25px;
+    
+   
+}
